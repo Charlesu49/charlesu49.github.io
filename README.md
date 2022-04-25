@@ -2,7 +2,7 @@
 This is a landing page made using glassmorphism and JS.
 
 ## Pages Screenshot
-<img scr="https://github.com/Charlesu49/charlesu49.github.io/blob/main/images/screenshot.png" alt="pages screenshot">
+<img src="https://github.com/Charlesu49/charlesu49.github.io/blob/main/images/screenshot.png" alt="screenshot">
 
 
 ## Tools and Technologies
